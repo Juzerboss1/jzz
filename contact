@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+  <head>
+    <meta charset="utf-8">
+    <title> CONTACT</title>
+  </head>
+
+  <body><h1>EMAIL and NUMBER</h1>
+    <hr size+"5" noshade>
++254 712 818 252<br>
+juzerboss@gmail.com
+<hr size="5" noshade>
+<form class="" action="mailto:juzerboss1@gmail.com" method="post">
+  <label>Your Name</label>
+  <input type="text" name="your Name" value=""><br>
+  <label>Your Email</label>
+  <input type="email" name="yourEmail" value=""><br>
+  <label>Your Message</label><br>
+  <textarea name="yourMessage" rows="10" cols="30"></textarea>
+  <input type="submit" name="" value=""<br>
+</form>
+
+
+
+
+</body>
+
+</html>
